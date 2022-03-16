@@ -19,7 +19,4 @@ router.put("/updateBlogsData",Middleware.mid1, BlogController.updateBlog)
 router.delete("/deleteBlog",Middleware.mid1, BlogController.deleteSpecificItem)
 
 
-//router.delete("/deleteBlog",BlogController.deleteUser)
-
-
 module.exports=router;

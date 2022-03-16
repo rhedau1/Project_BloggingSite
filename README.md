@@ -1,9 +1,9 @@
 # blog_project-
 
 ## Members- 
-1. Shabdika Pandey
+1. Pramod Jadhav
 2. S Tujliman
-3. Pramod Jadhav
+3. Shabdika Pandey
 4. Rahul Hedau
 
 
